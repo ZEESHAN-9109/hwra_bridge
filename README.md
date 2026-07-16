@@ -2,6 +2,13 @@
 
 A creative front-end project that recreates the iconic **Howrah Bridge** using only **HTML** and **CSS**. The bridge is built entirely with CSS borders, positioning, and transformations without using SVG, Canvas, or images.
 
+---
+
+# For Demo
+ https://zeeshan-9109.github.io/hwra_bridge/
+
+ ---
+
 ## ✨ Features
 
 - 🌉 Pure HTML & CSS implementation
@@ -68,9 +75,12 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
+Zeeshan Ahmed
 
-**Zeeshan Ahmed**
+GitHub: https://github.com/ZEESHAN-9109
+
+LinkedIn: https://www.linkedin.com/in/zeeshan-ahmed-b4b1122ba/
 
 
 ---

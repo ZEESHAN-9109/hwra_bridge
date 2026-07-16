@@ -75,7 +75,8 @@ This project is licensed under the MIT License.
 
 ---
 
-👨‍💻 Author
+#👨‍💻 Author
+
 Zeeshan Ahmed
 
 GitHub: https://github.com/ZEESHAN-9109
